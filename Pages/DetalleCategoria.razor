@@ -1,0 +1,38 @@
+﻿@page "/detalles/{id:int}"
+@using Models
+@using Services
+@inject ICategoriaService CategoriaService
+
+<MudText Typo="Typo.h5">Detalles de Categoria</MudText>
+
+@if (categoria == null)
+{
+    <p><em>Cargando...</em></p>
+}
+else
+{
+    <MudCard>
+        <MudCardHeader  Class="text-center pa-4 shades-text text-white black">
+            <CardHeaderContent>
+                <MudText Typo="Typo.h6">@categoria.Nombre</MudText>
+            </CardHeaderContent>
+        </MudCardHeader>
+      
+        <MudCardActions Class="center">
+            <img src="@categoria.Imagen" alt="@categoria.Nombre" Elevation="25" Class="rounded-lg" width="60%" height="auto" />
+        </MudCardActions>
+    </MudCard>
+}
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    Categoria categoria = new Categoria();
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (id > 0)
+            categoria = await CategoriaService.GetById(id);
+    }
+}

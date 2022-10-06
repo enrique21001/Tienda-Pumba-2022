@@ -1,0 +1,50 @@
+﻿@page "/Producto"
+
+@using Models
+@using Services
+@inject IProductoService ProductoService
+
+<MudText Typo="Typo.h3">Categorias</MudText>
+
+<MudGrid>
+    @foreach (var item in Pro)
+    {
+        string Producto = "";
+        <MudItem xs="12" sm="10" md="6" lg="4">
+            <MudCard >
+                <MudCardHeader  Class="text-center pa-4 shades-text text-white black">
+                    <CardHeaderContent>
+                        <MudText Typo="Typo.h6">@item.Nombre</MudText>
+
+                    </CardHeaderContent>
+                </MudCardHeader>
+                <MudCardContent>
+                    @switch (item.Id)
+                    {
+                        case 1:
+                            Producto = "";
+                            break;
+
+
+                    }
+                    <MudText Typo="Typo.body2">Producto  @Producto</MudText>
+
+                </MudCardContent>
+              
+                <MudCardActions>
+
+                    <MudButton Link="@($"/F/{item.Id}")" Variant="Variant.Outlined" Color="Color.Tertiary"
+                               Class="text-center">Ver </MudButton>
+                </MudCardActions>
+            </MudCard>
+        </MudItem>
+    }
+</MudGrid>
+
+@code {
+    IEnumerable<Producto> Pro = new List<Producto>();
+    protected override async Task OnInitializedAsync()
+    {
+        Pro = await ProductoService.GetAll();
+    }
+}
