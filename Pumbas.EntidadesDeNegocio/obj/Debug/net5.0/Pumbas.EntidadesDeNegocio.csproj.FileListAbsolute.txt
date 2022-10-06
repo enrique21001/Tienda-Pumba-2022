@@ -1,0 +1,12 @@
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.EntidadesDeNegocio\bin\Debug\net5.0\Pumbas.EntidadesDeNegocio.deps.json
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.EntidadesDeNegocio\bin\Debug\net5.0\Pumbas.EntidadesDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.EntidadesDeNegocio\bin\Debug\net5.0\ref\Pumbas.EntidadesDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.EntidadesDeNegocio\bin\Debug\net5.0\Pumbas.EntidadesDeNegocio.pdb
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.EntidadesDeNegocio\obj\Debug\net5.0\Pumbas.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.EntidadesDeNegocio\obj\Debug\net5.0\Pumbas.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.EntidadesDeNegocio\obj\Debug\net5.0\Pumbas.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.EntidadesDeNegocio\obj\Debug\net5.0\Pumbas.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.EntidadesDeNegocio\obj\Debug\net5.0\Pumbas.EntidadesDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.EntidadesDeNegocio\obj\Debug\net5.0\ref\Pumbas.EntidadesDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.EntidadesDeNegocio\obj\Debug\net5.0\Pumbas.EntidadesDeNegocio.pdb
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.EntidadesDeNegocio\obj\Debug\net5.0\Pumbas.EntidadesDeNegocio.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\bin\Debug\net5.0\Pumbas.AccesoADatos.deps.json
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\bin\Debug\net5.0\Pumbas.AccesoADatos.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\bin\Debug\net5.0\ref\Pumbas.AccesoADatos.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\bin\Debug\net5.0\Pumbas.AccesoADatos.pdb
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\bin\Debug\net5.0\Pumbas.EntidadesDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\bin\Debug\net5.0\Pumbas.EntidadesDeNegocio.pdb
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\obj\Debug\net5.0\Pumbas.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\obj\Debug\net5.0\Pumbas.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\obj\Debug\net5.0\Pumbas.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\obj\Debug\net5.0\Pumbas.AccesoADatos.AssemblyInfo.cs
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\obj\Debug\net5.0\Pumbas.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\obj\Debug\net5.0\Pumbas.AccesoADatos.csproj.CopyComplete
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\obj\Debug\net5.0\Pumbas.AccesoADatos.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\obj\Debug\net5.0\ref\Pumbas.AccesoADatos.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.AccesoADatos\obj\Debug\net5.0\Pumbas.AccesoADatos.pdb

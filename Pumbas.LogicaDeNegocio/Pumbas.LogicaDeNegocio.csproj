@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pumbas.AccesoADatos\Pumbas.AccesoADatos.csproj" />
+    <ProjectReference Include="..\Pumbas.EntidadesDeNegocio\Pumbas.EntidadesDeNegocio.csproj" />
+  </ItemGroup>
+
+</Project>

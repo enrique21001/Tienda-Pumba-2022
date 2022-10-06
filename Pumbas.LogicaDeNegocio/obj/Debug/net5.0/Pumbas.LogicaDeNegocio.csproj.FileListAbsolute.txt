@@ -1,0 +1,17 @@
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\bin\Debug\net5.0\Pumbas.LogicaDeNegocio.deps.json
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\bin\Debug\net5.0\Pumbas.LogicaDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\bin\Debug\net5.0\ref\Pumbas.LogicaDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\bin\Debug\net5.0\Pumbas.LogicaDeNegocio.pdb
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\bin\Debug\net5.0\Pumbas.AccesoADatos.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\bin\Debug\net5.0\Pumbas.EntidadesDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\bin\Debug\net5.0\Pumbas.AccesoADatos.pdb
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\bin\Debug\net5.0\Pumbas.EntidadesDeNegocio.pdb
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\obj\Debug\net5.0\Pumbas.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\obj\Debug\net5.0\Pumbas.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\obj\Debug\net5.0\Pumbas.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\obj\Debug\net5.0\Pumbas.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\obj\Debug\net5.0\Pumbas.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\obj\Debug\net5.0\Pumbas.LogicaDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\obj\Debug\net5.0\ref\Pumbas.LogicaDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\obj\Debug\net5.0\Pumbas.LogicaDeNegocio.pdb
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\Pumbas\Pumbas\Pumbas.LogicaDeNegocio\obj\Debug\net5.0\Pumbas.LogicaDeNegocio.csproj.AssemblyReference.cache
